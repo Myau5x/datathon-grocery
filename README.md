@@ -1,4 +1,7 @@
 # datathon-grocery
+
+My analysys presentation [PDF](https://github.com/Myau5x/datathon-grocery/blob/master/Grocery_sales_By_Category.pdf)
+
 EDA and finding The highest selling products by month and category, etc : [EDA notebook](https://github.com/Myau5x/datathon-grocery/blob/master/EDA.ipynb)
 
 Highest and lowest selling products: [files](https://github.com/Myau5x/datathon-grocery/blob/master/most_selling_by_profit.csv)
